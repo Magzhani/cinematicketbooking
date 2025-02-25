@@ -1,2 +1,2 @@
-# cinematicketbooking
-Әлішер Мағжан
+# Әлішер Мағжан
+
